@@ -1,1 +1,6 @@
-
+{
+  "buildCommand": "turbo run build",
+  "outputDirectory": "packages/embeds/js/dist",
+  "installCommand": "bun install",
+  "devCommand": "turbo run dev"
+}
